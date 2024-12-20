@@ -15,7 +15,7 @@ This repository demonstrates the setup of a web server with a simple HTML landin
 ## Screenshot
 Here’s how the landing page looks:
 
-![Landing Page Screenshot](screenshot.png)
+![Landing Page Screenshot](screenshot1.png.png)
 
 ## How to Build the Project
 Here’s how the project was created:
