@@ -23,7 +23,6 @@ Here’s how I built the project:
 1. **Provision a Server**:
    - I Used AWS EC2 to create an Ubuntu Linux server.
    - Allowed HTTP and SSH traffic in the security group.
-![Server](./README.me/images/screenshot2.png.png)
 
 2. **Set Up a Web Server**:
    - Installed Apache2 on the server.
