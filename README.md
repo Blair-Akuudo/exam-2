@@ -18,11 +18,12 @@ Here’s how the landing page looks:
 ![Landing Page Screenshot](./README.me/images/screenshot1.png.png)
 
 ## How to Build the Project
-Here’s how the project was created:
+Here’s how I built the project:
 
 1. **Provision a Server**:
-   - Used AWS EC2 to create an Ubuntu Linux server.
+   - I Used AWS EC2 to create an Ubuntu Linux server.
    - Allowed HTTP and SSH traffic in the security group.
+   -  (./README.me/images/screenshot2.png.png)
 
 2. **Set Up a Web Server**:
    - Installed Apache2 on the server.
