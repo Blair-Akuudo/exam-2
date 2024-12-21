@@ -3,11 +3,11 @@
 # Web Prototype Landing Page
 ## Public IP Address
 
-- You can view the landing page here: [http://<Public_IP_Address>](http://<34.254.252.254>)
+- You can view the landing page here: [http://<Public_IP_Address>](http://34.254.252.254)
 
 ## Public IP Address
-- Access the web page: [http://<Public_IP_Address>](http://<34.254.252.254>)
-- (Optional) HTTPS: [https://<Public_IP_Address>](https://<https://blessingjonah.mooo.com>)
+- Access the web page: [http://<Public_IP_Address>](http://34.254.252.254)
+- (Optional) HTTPS: [https://<Public_IP_Address>](https://https://blessingjonah.mooo.com)
 
 ## Project Description
 This repository demonstrates the setup of a web server with a simple HTML landing page. 
